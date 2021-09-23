@@ -1,5 +1,6 @@
 # Course browser
 
-Browse courses on a database, with ability to search based on course name, teacher, and department.
+Browse courses on a database, with ability to search based on course name, teacher, and department. Has Pagination.
 
-Made with native PHP and Javascript for a Database course. 
+
+Made with native PHP and Javascript, in addition to Materialize CSS, for a Database course. 
