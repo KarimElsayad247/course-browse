@@ -1,0 +1,58 @@
+#search_box {
+    font-size: 20px;
+}
+
+h1 {
+    grid-area: title;
+}
+
+.before_table {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto 4fr;
+    grid-template-areas:
+      "title button"
+      "title button"
+      "title button";
+      align-items: start;
+
+}
+
+.pages_selector {
+    margin: 4.2rem 0 1.68rem 0;
+    grid-area: button;
+    justify-self: end;
+}
+
+.pagination_number_link, .pagination_next_prev_link {
+    cursor:pointer; 
+    padding:12px;
+    border:1px solid #ccc;
+    margin: 0px 2px 0px 2px;
+    
+}
+
+.data_table {
+    margin-top: 18px;
+    margin-bottom: 40px;
+    font-size: 16px;
+}
+
+.course_name {
+    width: 20%;
+}
+
+.professor_name {
+    width: 20%;
+}
+
+.department_name{
+    width: 20%;
+}
+
+.course_description{
+    width: 40%;
+}
+.course_name, .professor_name, .course_description, .department_name {
+    padding-left: 18px;
+}
