@@ -6,4 +6,4 @@ Browse courses on a database, with ability to search based on course name, teach
 Made with native PHP and Javascript, in addition to Materialize CSS, for a Database course. 
 
 ## Preview
-https://i.imgur.com/jPPhreg.png
+![Website preview](https://i.imgur.com/jPPhreg.png)
